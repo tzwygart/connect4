@@ -1,0 +1,11 @@
+{
+  "name": "imat",
+  "version": "0.0.1",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tzwygart",
+  "license": "ISC"
+}
