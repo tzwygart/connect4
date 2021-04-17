@@ -3,9 +3,13 @@
   "version": "0.0.1",
   "description": "test project",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "start": "node --trace-warnings index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "tzwygart",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
 }
